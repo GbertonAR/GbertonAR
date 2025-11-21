@@ -1,40 +1,43 @@
 <div align="center">
-  <table>
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td width="20%" align="center" valign="middle">
+      <td style="vertical-align: middle; padding-right: 15px; border: none;">
         <a href="https://linkedin.com/in/gustavo-berton" target="_blank">
-          <img src="GBLogo5.jpg" alt="Gustavo Berton Logo" width="140px">
+          <img src="GBLogo5.jpg" alt="Logo" width="170" style="border-radius: 50%;">
         </a>
       </td>
       <td width="80%" valign="middle">
-         <h1 style="margin-bottom: 0;">Capital Humano & Estrategia Tecnológica</h1>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=false&vCenter=true&width=600&height=70&lines=Capital+Humano+%26+Estrategia+Tecnol%C3%B3gica;Liderando+la+Transformaci%C3%B3n+Digital;Expertise+en+IA+y+Cloud+Computing" alt="Typing SVG" />
+        </a>
       </td>
     </tr>
   </table>
 </div>
-
 <div align="center">
-  <img src="BannerFlow4.jpg" alt="FlowState AI Banner: Transforma tus procesos y aumenta tu productividad" width="100%">
+   
+  <img src="BannerFlow4.jpg" alt="FlowState AI Banner" width="100%" style="border-radius: 10px;">
+
+  <h3 style="margin-top: 20px;">
+    Transformando décadas de evolución tecnológica en soluciones de IA y Cloud
+  </h3>
+
+  <div style="margin-top: 15px;">
+    <a href="https://linkedin.com/in/gustavo-berton">
+      <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+    </a>
+    &nbsp;
+    <a href="mailto:tucorreo@ejemplo.com">
+      <img src="https://img.shields.io/badge/Email-Hablemos-D13030?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
+    </a>
+    &nbsp;
+    <a href="#">
+      <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cloud-9F5AFD?style=for-the-badge&logo=openai&logoColor=white" alt="AI Cloud" height="30"/>
+    </a>
+  </div>
+
 </div>
 
-<br>
-<div align="center">
-    <br>
-   <b>Transformando décadas de evolución tecnológica en soluciones de IA y Cloud</b>
-   <br>
-        <div>
-          <a href="https://linkedin.com/in/gustavo-berton">
-            <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
-          </a>
-          <a href="mailto:tucorreo@ejemplo.com">
-            <img src="https://img.shields.io/badge/Email-Hablemos-D13030?style=flat-square&logo=gmail" alt="Email" />
-          </a>
-          <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cloud-9F5AFD?style=for-the-badge" alt="AI Cloud" />
-      </div>
-
-</div>
-
----
 
 ### 🧠 Visión Estratégica: Más que Código
 
