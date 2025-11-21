@@ -2,7 +2,11 @@
 
 <div align="center">
   
-  <img src="https://via.placeholder.com/1000x4/9F5AFD/45DFD?text=+" alt="FlowState Line" height="4px" width="100%">
+  <img src="BannerFlow4.jpg" alt="FlowState AI Banner: Transforma tus procesos y aumenta tu productividad" width="100%">
+  
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+    <img src="GBLogo5.jpg" alt="Gustavo Berton - Digital Transformation & AI Expert" width="200px" style="padding-top: 20px;">
+  </a>
   
   <h3> 🚀 Transformando décadas de evolución tecnológica en soluciones de IA y Cloud </h3>
 
