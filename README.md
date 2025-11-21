@@ -1,10 +1,6 @@
 # <div align="center">GbertonAR: Capital Humano & Estrategia Tecnológica</div>
 
-<div align="center">
-  <img src="BannerFlow4.jpg" alt="FlowState AI Banner: Transforma tus procesos y aumenta tu productividad" width="100%">
-</div>
 
-<br>
 
 <table>
   <tr>
@@ -27,6 +23,12 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="BannerFlow4.jpg" alt="FlowState AI Banner: Transforma tus procesos y aumenta tu productividad" width="100%">
+</div>
+
+<br>
 <div align="center">
     <br>
    <b>Transformando décadas de evolución tecnológica en soluciones de IA y Cloud</b>
@@ -34,7 +36,6 @@
    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cloud-9F5AFD?style=for-the-badge" alt="AI Cloud" />
 </div>
 
----
 ---
 
 ### 🧠 Visión Estratégica: Más que Código
