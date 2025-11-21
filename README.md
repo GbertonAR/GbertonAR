@@ -1,6 +1,3 @@
-# <div align="center">GbertonAR: Capital Humano & Estrategia Tecnológica</div>
-
-
 
 <table>
   <tr>
@@ -10,16 +7,8 @@
       </a>
     </td>
     <td width="80%" valign="middle">
-      <h1 style="margin-bottom: 0;">GbertonAR</h1>
-      <h3 style="margin-top: 0; font-weight: normal;">🚀 Capital Humano & Estrategia Tecnológica</h3>
-      <div>
-        <a href="https://linkedin.com/in/gustavo-berton">
-          <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
-        </a>
-        <a href="mailto:tucorreo@ejemplo.com">
-          <img src="https://img.shields.io/badge/Email-Hablemos-D13030?style=flat-square&logo=gmail" alt="Email" />
-        </a>
-      </div>
+       # <div align="center">GbertonAR: Capital Humano & Estrategia Tecnológica</div>
+
     </td>
   </tr>
 </table>
@@ -32,7 +21,15 @@
 <div align="center">
     <br>
    <b>Transformando décadas de evolución tecnológica en soluciones de IA y Cloud</b>
-   <br><br>
+   <br>
+        <div>
+        <a href="https://linkedin.com/in/gustavo-berton">
+          <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
+        </a>
+        <a href="mailto:tucorreo@ejemplo.com">
+          <img src="https://img.shields.io/badge/Email-Hablemos-D13030?style=flat-square&logo=gmail" alt="Email" />
+        </a>
+      </div>
    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cloud-9F5AFD?style=for-the-badge" alt="AI Cloud" />
 </div>
 
