@@ -1,5 +1,5 @@
 
-<table>
+#<table>
   <tr>
     <td width="20%" align="center" valign="middle">
       <a href="https://linkedin.com/in/gustavo-berton" target="_blank">
@@ -7,8 +7,7 @@
       </a>
     </td>
     <td width="80%" valign="middle">
-       # <div align="center">GbertonAR: Capital Humano & Estrategia Tecnológica</div>
-
+       <div align="center">GbertonAR: Capital Humano & Estrategia Tecnológica</div>
     </td>
   </tr>
 </table>
