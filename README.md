@@ -1,16 +1,17 @@
-
-#<table>
-  <tr>
-    <td width="20%" align="center" valign="middle">
-      <a href="https://linkedin.com/in/gustavo-berton" target="_blank">
-        <img src="GBLogo5.jpg" alt="Gustavo Berton Logo" width="140px">
-      </a>
-    </td>
-    <td width="80%" valign="middle">
-       <div align="center">GbertonAR: Capital Humano & Estrategia Tecnológica</div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="20%" align="center" valign="middle">
+        <a href="https://linkedin.com/in/gustavo-berton" target="_blank">
+          <img src="GBLogo5.jpg" alt="Gustavo Berton Logo" width="140px">
+        </a>
+      </td>
+      <td width="80%" valign="middle">
+         <h1 style="margin-bottom: 0;">GbertonAR: Capital Humano & Estrategia Tecnológica</h1>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img src="BannerFlow4.jpg" alt="FlowState AI Banner: Transforma tus procesos y aumenta tu productividad" width="100%">
