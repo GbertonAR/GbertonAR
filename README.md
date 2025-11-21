@@ -7,7 +7,7 @@
         </a>
       </td>
       <td width="80%" valign="middle">
-         <h1 style="margin-bottom: 0;">GbertonAR: Capital Humano & Estrategia Tecnológica</h1>
+         <h1 style="margin-bottom: 0;">Capital Humano & Estrategia Tecnológica</h1>
       </td>
     </tr>
   </table>
